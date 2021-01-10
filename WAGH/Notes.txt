@@ -1,0 +1,4 @@
+- This game has 4 SPC engines, the most of any game I've looked at. Each game has its own, except Defender II shares its engine with Defender. The Defender engine is also initially loaded on the title screen, but is not reloaded when exiting a different game. This might explain why there is no audio whatsoever outside of the games.
+
+- This game is coded in an unusual way, where it makes heavy use of indirect addressing and 16-bit indexing. It's to the point where it's tough to make out what the purpose of various routines are.
+
